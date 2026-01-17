@@ -5,7 +5,7 @@ import {
   signInAnonymously,
   onAuthStateChanged,
   signInWithCustomToken,
-  User,
+  User, 
 } from 'firebase/auth';
 import {
   getFirestore,
